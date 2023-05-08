@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RightGrip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GEO_R
+    m_Weight: 0
+  - m_Path: GEO_R/MSH_rightHand
+    m_Weight: 0
+  - m_Path: R_Root
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Middle1
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Middle1/R_Middle2
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Middle1/R_Middle2/R_Middle3
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Middle1/R_Middle2/R_Middle3/R_Middle4
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Middle1/R_Middle2/R_Middle3/R_Middle4/R_MiddleEnd
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Pinky1
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Pinky1/R_Pinky2
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pinky1/R_Pinky2/R_Pinky3
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pinky1/R_Pinky2/R_Pinky3/R_Pinky4
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pinky1/R_Pinky2/R_Pinky3/R_Pinky4/R_PinkyEnd
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Pointer1
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Pointer1/R_Pointer2
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pointer1/R_Pointer2/R_Pointer3
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pointer1/R_Pointer2/R_Pointer3/R_Pointer4
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Pointer1/R_Pointer2/R_Pointer3/R_Pointer4/R_PointerEnd
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Ring1
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Ring1/R_Ring2
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Ring1/R_Ring2/R_Ring3
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Ring1/R_Ring2/R_Ring3/R_Ring4
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Ring1/R_Ring2/R_Ring3/R_Ring4/R_RingEnd
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Thumb1
+    m_Weight: 0
+  - m_Path: R_Root/R_Wrist/R_Thumb1/R_Thumb2
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Thumb1/R_Thumb2/R_Thumb3
+    m_Weight: 1
+  - m_Path: R_Root/R_Wrist/R_Thumb1/R_Thumb2/R_Thumb3/R_ThumbEnd
+    m_Weight: 0
+  - m_Path: R_Root_Offset
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2/R_MiddleControl2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2/R_MiddleControl2/R_Middle_Offset3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2/R_MiddleControl2/R_Middle_Offset3/R_MiddleControl3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2/R_MiddleControl2/R_Middle_Offset3/R_MiddleControl3/R_Middle_Offset4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Middle_Offset1/R_MiddleControl1/R_Middle_Offset2/R_MiddleControl2/R_Middle_Offset3/R_MiddleControl3/R_Middle_Offset4/R_MiddleControl4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2/R_PinkyControl2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2/R_PinkyControl2/R_Pinky_Offset3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2/R_PinkyControl2/R_Pinky_Offset3/R_PinkyControl3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2/R_PinkyControl2/R_Pinky_Offset3/R_PinkyControl3/R_Pinky_Offset4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pinky_Offset1/R_PinkyControl1/R_Pinky_Offset2/R_PinkyControl2/R_Pinky_Offset3/R_PinkyControl3/R_Pinky_Offset4/R_PinkyControl4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2/R_PointerControl2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2/R_PointerControl2/R_Pointer_Offset3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2/R_PointerControl2/R_Pointer_Offset3/R_PointerControl3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2/R_PointerControl2/R_Pointer_Offset3/R_PointerControl3/R_Pointer_Offset4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Pointer_Offset1/R_PointerControl1/R_Pointer_Offset2/R_PointerControl2/R_Pointer_Offset3/R_PointerControl3/R_Pointer_Offset4/R_PointerControl4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2/R_RingControl2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2/R_RingControl2/R_Ring_Offset3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2/R_RingControl2/R_Ring_Offset3/R_RingControl3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2/R_RingControl2/R_Ring_Offset3/R_RingControl3/R_Ring_Offset4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Ring_Offset1/R_RingControl1/R_Ring_Offset2/R_RingControl2/R_Ring_Offset3/R_RingControl3/R_Ring_Offset4/R_RingControl4
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1/R_ThumbControl1
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1/R_ThumbControl1/R_Thumb_Offset2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1/R_ThumbControl1/R_Thumb_Offset2/R_ThumbControl2
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1/R_ThumbControl1/R_Thumb_Offset2/R_ThumbControl2/R_Thumb_Offset3
+    m_Weight: 0
+  - m_Path: R_Root_Offset/R_RootControl/R_Wrist_Offset/R_WristControl/R_Thumb_Offset1/R_ThumbControl1/R_Thumb_Offset2/R_ThumbControl2/R_Thumb_Offset3/R_ThumbControl3
+    m_Weight: 0
